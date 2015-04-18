@@ -24,7 +24,9 @@ Electronics & Software
 	* Getting started with NeoPixels: http://learn.adafruit.com/flora-rgb-smart-pixels/
 4. Follow the included schematic and sew everything into your shirt
 5. You may want to super glue the contacts once you've sewn them, so they don't untie
-5. Load the included software onto your Flora and watch it blink! 
+5. Load the included software onto your Flora and watch it blink!
+
+*Note: On 4/17/2015 I added another sketch folder (stars-gemma) that works with the Adafruit Gemma instead of the Flora. Setup instructions unique to that platform can be found inside the sketch file.
 
 Open Source License
 -------------------
